@@ -1,0 +1,30 @@
+.projects{
+    background: #f9f9f9;
+    margin-top: 50px;
+}
+.projects .card{
+    box-shadow: rgba(0,0,0,0.1) 0px 4px 12px;
+    border: none;
+    cursor: pointer;
+}
+.projects .card i{
+    font-size: 80px;
+    text-align: center;
+    color:#ffa500;
+    margin-top: 20px;
+}
+.projects .card .card-body h3{
+    font-weight: 600;
+}
+.projects .card .card-body{
+    text-align: center;
+}
+.main-txt h1{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 600;
+    text-shadow: 0px 1px 1px black;
+}
+.main-txt h1 span{
+    color: #ffa500;
+}
